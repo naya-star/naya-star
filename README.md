@@ -8,8 +8,7 @@ My technical skills include Tech Stack
 - Backend: php,mysql
 - Tools: Git, GitHub, VS Code, xampp
 
-plpfirstcode**](https://github.com/naya-star/plpfirstcode) - My first Python project.  
-🔹 [**README-**](https://github.com/naya-star/README-) - A guide to my work.
+View my Portfolio from https://naya-star.netlify.app/
 
 ---
 
