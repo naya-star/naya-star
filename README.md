@@ -21,6 +21,4 @@ View my Portfolio from https://naya-star.netlify.app/
 ### 📫 Let's Connect
 [![LinkedIn] www.linkedin.com/in/naomi-wairimu-050472228
 
-- ⚡ Fun fact: ...I can design a website faster than I can decide what to have for lunch
--->
 I am open to collaboration in building responsive websites
